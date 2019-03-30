@@ -1,4 +1,4 @@
-Repo moved to *Hasadna* organization [here](https://github.com/hasadna/knesset-data-backend)
+Repo moved to *Hasadna* organization - [hasadna/knesset-data-backend](https://github.com/hasadna/knesset-data-backend)
 
 ---
 
