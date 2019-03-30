@@ -61,6 +61,7 @@ examples:
     /legislation-by-knesset/20?SubTypeDesc=ממשלתית
     /legislation?Name=ציבורי&page=2
     /legislation-by-knesset/19?SubTypeDesc=פרטית&PrivateNumberStart=50&PrivateNumberEnd=60
+    /legislation-by-knesset/20?PrivateNumber=1000
 
 ### Data Cache
 
