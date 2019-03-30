@@ -1,3 +1,7 @@
+Repo moved to *Hasadna* organization [here](https://github.com/hasadna/knesset-data-backend)
+
+---
+
 This project is a backend for [knesset-data-web-ui](https://github.com/WEBbeast2018/knesset-data-web-ui/)
 Backend server is available at [https://oknesset-backend.herokuapp.com](https://oknesset-backend.herokuapp.com)
 
